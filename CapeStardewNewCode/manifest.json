@@ -1,0 +1,21 @@
+{
+  "Name": "CapeStardewCode",
+  "Description": "misc",
+  "UniqueID": "dreamygloom.CapeStardewCode",
+  "Author": "dreamygloom",
+  "Version": "6.4.2",
+  "EntryDll": "CapeStardewCode.dll",
+  "MinimumApiVersion": "3.0.0",
+ "Dependencies": [
+ {
+      "UniqueID": "dreamy.kickitspot",
+      "IsRequired": true
+   },
+ {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  },
+  {
+    "UniqueID": "spacechase0.SpaceCore"
+}
+]
+}

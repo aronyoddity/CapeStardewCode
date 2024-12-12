@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <GamePath>/run/media/arony/a1e394f5-6883-4f94-bc2b-140cfde0eb89/steamssd2023/SteamLibrary/steamapps/common/Stardew Valley/</GamePath>
+   <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+<PackageReference Include="MonoGame.Framework.DesktopGL" Version="3.8.1.303" />
+ <PackageReference Include="System.Collections.Immutable" Version="8.0.0" />
+    <PackageReference Include="System.Reflection.Metadata" Version="8.0.0" />
+ <PackageReference Include="Pathoschild.Stardew.ModBuildConfig" Version="4.0.0" PrivateAssets="All" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+<PackageReference Include="Lib.Harmony" Version="2.3.3" />
+  </ItemGroup>
+
+<ItemGroup>
+   <Reference Include="StardewModdingAPI">
+      <HintPath>$(GamePath)/StardewModdingAPI.dll</HintPath>
+    </Reference>
+    <Reference Include="StardewValley">
+      <HintPath>$(GamePath)/Stardew Valley.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework">
+      <HintPath>$(GamePath)/xnafx40_redist.msi</HintPath>
+    </Reference>
+<Reference Include="SpaceCore">
+<HintPath>$(GamePath)/Mods/SpaceCore/SpaceCore.dll</HintPath>
+</Reference>
+</ItemGroup>
+
+
+<ItemGroup>
+   
+</ItemGroup>
+
+
+</Project>

@@ -1,0 +1,32 @@
+/home/arony/Documents/NEWPROJECT/OrbOfTheTidesMod/CapeStardewCode/bin/Debug/net6.0/CapeStardewCode.deps.json
+/home/arony/Documents/NEWPROJECT/OrbOfTheTidesMod/CapeStardewCode/bin/Debug/net6.0/CapeStardewCode.dll
+/home/arony/Documents/NEWPROJECT/OrbOfTheTidesMod/CapeStardewCode/bin/Debug/net6.0/CapeStardewCode.pdb
+/home/arony/Documents/NEWPROJECT/OrbOfTheTidesMod/CapeStardewCode/obj/Debug/net6.0/CapeStardewCode.csproj.AssemblyReference.cache
+/home/arony/Documents/NEWPROJECT/OrbOfTheTidesMod/CapeStardewCode/obj/Debug/net6.0/CapeStardewCode.GeneratedMSBuildEditorConfig.editorconfig
+/home/arony/Documents/NEWPROJECT/OrbOfTheTidesMod/CapeStardewCode/obj/Debug/net6.0/CapeStardewCode.AssemblyInfoInputs.cache
+/home/arony/Documents/NEWPROJECT/OrbOfTheTidesMod/CapeStardewCode/obj/Debug/net6.0/CapeStardewCode.AssemblyInfo.cs
+/home/arony/Documents/NEWPROJECT/OrbOfTheTidesMod/CapeStardewCode/obj/Debug/net6.0/CapeStardewCode.csproj.CoreCompileInputs.cache
+/home/arony/Documents/NEWPROJECT/OrbOfTheTidesMod/CapeStardewCode/obj/Debug/net6.0/CapeStardewCode.dll
+/home/arony/Documents/NEWPROJECT/OrbOfTheTidesMod/CapeStardewCode/obj/Debug/net6.0/CapeStardewCode.pdb
+/home/arony/Documents/NEWPROJECT/OrbOfTheTidesMod/CapeStardewCode (copy 1)/bin/Debug/net6.0/CapeStardewCode.deps.json
+/home/arony/Documents/NEWPROJECT/OrbOfTheTidesMod/CapeStardewCode (copy 1)/bin/Debug/net6.0/CapeStardewCode.dll
+/home/arony/Documents/NEWPROJECT/OrbOfTheTidesMod/CapeStardewCode (copy 1)/bin/Debug/net6.0/CapeStardewCode.pdb
+/home/arony/Documents/NEWPROJECT/OrbOfTheTidesMod/CapeStardewCode (copy 1)/obj/Debug/net6.0/CapeStardewCode.csproj.AssemblyReference.cache
+/home/arony/Documents/NEWPROJECT/OrbOfTheTidesMod/CapeStardewCode (copy 1)/obj/Debug/net6.0/CapeStardewCode.GeneratedMSBuildEditorConfig.editorconfig
+/home/arony/Documents/NEWPROJECT/OrbOfTheTidesMod/CapeStardewCode (copy 1)/obj/Debug/net6.0/CapeStardewCode.AssemblyInfoInputs.cache
+/home/arony/Documents/NEWPROJECT/OrbOfTheTidesMod/CapeStardewCode (copy 1)/obj/Debug/net6.0/CapeStardewCode.AssemblyInfo.cs
+/home/arony/Documents/NEWPROJECT/OrbOfTheTidesMod/CapeStardewCode (copy 1)/obj/Debug/net6.0/CapeStardewCode.csproj.CoreCompileInputs.cache
+/home/arony/Documents/NEWPROJECT/OrbOfTheTidesMod/CapeStardewCode (copy 1)/obj/Debug/net6.0/CapeStardewCode.dll
+/home/arony/Documents/NEWPROJECT/OrbOfTheTidesMod/CapeStardewCode (copy 1)/obj/Debug/net6.0/CapeStardewCode.pdb
+/home/arony/Documents/NEWPROJECT/OrbOfTheTidesMod/CapeStardewNewCode/bin/Debug/net6.0/CapeStardewCode.deps.json
+/home/arony/Documents/NEWPROJECT/OrbOfTheTidesMod/CapeStardewNewCode/bin/Debug/net6.0/CapeStardewCode.dll
+/home/arony/Documents/NEWPROJECT/OrbOfTheTidesMod/CapeStardewNewCode/bin/Debug/net6.0/CapeStardewCode.pdb
+/home/arony/Documents/NEWPROJECT/OrbOfTheTidesMod/CapeStardewNewCode/bin/Debug/net6.0/SpaceCore.dll
+/home/arony/Documents/NEWPROJECT/OrbOfTheTidesMod/CapeStardewNewCode/obj/Debug/net6.0/CapeStardewCode.csproj.AssemblyReference.cache
+/home/arony/Documents/NEWPROJECT/OrbOfTheTidesMod/CapeStardewNewCode/obj/Debug/net6.0/CapeStardewCode.GeneratedMSBuildEditorConfig.editorconfig
+/home/arony/Documents/NEWPROJECT/OrbOfTheTidesMod/CapeStardewNewCode/obj/Debug/net6.0/CapeStardewCode.AssemblyInfoInputs.cache
+/home/arony/Documents/NEWPROJECT/OrbOfTheTidesMod/CapeStardewNewCode/obj/Debug/net6.0/CapeStardewCode.AssemblyInfo.cs
+/home/arony/Documents/NEWPROJECT/OrbOfTheTidesMod/CapeStardewNewCode/obj/Debug/net6.0/CapeStardewCode.csproj.CoreCompileInputs.cache
+/home/arony/Documents/NEWPROJECT/OrbOfTheTidesMod/CapeStardewNewCode/obj/Debug/net6.0/CapeStardewCode.csproj.CopyComplete
+/home/arony/Documents/NEWPROJECT/OrbOfTheTidesMod/CapeStardewNewCode/obj/Debug/net6.0/CapeStardewCode.dll
+/home/arony/Documents/NEWPROJECT/OrbOfTheTidesMod/CapeStardewNewCode/obj/Debug/net6.0/CapeStardewCode.pdb
