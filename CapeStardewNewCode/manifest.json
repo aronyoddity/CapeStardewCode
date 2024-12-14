@@ -3,7 +3,7 @@
   "Description": "misc",
   "UniqueID": "dreamygloom.CapeStardewCode",
   "Author": "dreamygloom",
-  "Version": "6.4.2",
+  "Version": "6.5.2",
   "EntryDll": "CapeStardewCode.dll",
   "MinimumApiVersion": "3.0.0",
  "Dependencies": [

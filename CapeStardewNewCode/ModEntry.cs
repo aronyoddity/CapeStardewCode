@@ -117,6 +117,7 @@ public static string Id = "dreamy.kickitspot";
             // Subscribe to GameLaunched to ensure SpaceCore is loaded
 
             
+    RingTriggers.Initialize(this.Monitor, helper);
         }
 
         private void OnUpdateTicked(object? sender, EventArgs e)
@@ -515,6 +516,7 @@ if (portalEffectTexture != null && teleportLocation.HasValue && Game1.currentLoc
             TriggerActionManager.RegisterTrigger(Id + "_OnRingSkyOakUnequip");
             TriggerActionManager.RegisterTrigger(Id + "_OnRingSilverPetalUnequip");
             TriggerActionManager.RegisterTrigger(Id + "_OnRingMysticArcanaUnequip");
+            TriggerActionManager.RegisterTrigger(Id + "_UnequippedActiveRings");
 
             // Log completion of trigger registration
             Monitor.Log("CapeStardewCode: Custom triggers registered successfully", LogLevel.Info);
